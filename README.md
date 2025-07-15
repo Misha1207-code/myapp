@@ -1,16 +1,1 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Local Food Donation Network is a Flutter-based mobile app designed to reduce food waste by connecting donors (like college canteens or restaurants) with nearby NGOs in need. Using Google technologies like Firebase and Google Maps, the app allows donors to quickly upload details and images of excess food, while NGOs can view and claim these donations in real-time. The prototype also simulates AI-powered matching (using Gemini API) and food expiry prediction (using Vertex AI) to make the distribution process smarter and safer. Our goal is to streamline food redistribution at the community level and make sure surplus food reaches the right hands on time.
